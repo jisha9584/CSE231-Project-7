@@ -8,7 +8,7 @@ This script is designed to analyze and present movie ratings from a dataset. It 
 
 <br>
 
-**Features**
+**Features** <br>
 **Data Integration:** Reads data from separate files (users, reviews, and movies).
 **Filtering Options:** Users can filter movies based on year, genre, user gender, or occupation.
 **Rating Analysis:** Calculates the highest average ratings for movies based on selected filters.
