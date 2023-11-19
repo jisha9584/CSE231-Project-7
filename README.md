@@ -20,20 +20,29 @@ This script is designed to analyze and present movie ratings from a dataset. It 
 <br>
 
 **Usage**
+<br>
 **Data Files:** Ensure the user, review, and movie data files are in the same directory as the script.
+<br>
 **Running the Script:** Execute the script in a Python environment.
+<br>
 **Menu Options:** Select from the menu to analyze movie ratings by year, genre, gender, or occupation.
+<br>
 **Exit:** Choose the quit option to exit the program.
 
 <br>
 
 **Requirements**
+<br>
 Python 3.x
+<br>
 Data files: users.txt, reviews.txt, movies.txt
 
 <br>
 
 **Ideal For**
+<br>
 Movie enthusiasts interested in rating trends.
+<br>
 Data analysts looking to explore and understand user preferences in films.
+<br>
 Educational purposes for learning data handling and analysis in Python.
